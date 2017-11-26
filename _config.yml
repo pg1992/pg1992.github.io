@@ -10,8 +10,8 @@ title: HW/SW Limbo
 email: pedro.eletronica.unb@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
         blah blah blah
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: PGSM1992
 github_username:  pg1992
 
